@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="estilos.css">
+    <title>Integrador</title>
+</head>
+<body>
+    <header>
+        <a href="index.html"class="logo">
+            <img src="icono.jpg" alt="logo">
+            <h2>Los Juegos del Hambre</h2>
+        </a>
+        <input type="checkbox" id="check">
+        <label for="check" class="checkbtn">
+            <i class="fas fa-bars"></i>
+        </label>
+        <nav>
+            <ul>
+            <li><a href="index.html">Inicio</a>
+            <li><a href="registrarse.html">Registrarse</a></li>
+            <li><a href="sesion.html">Iniciar Sesion</a></li>
+            <ul> 
+        </nav>    
+    </header>
+    <div class="container">
+            <div class="text">
+                <h1>Revivi La Saga de "Los Juegos del Hambre"</h1>
+                <p>Volve a sentir la emocion de una de las sagas de libros las recordadas de la historia y llevate el ejemplar que quieras</p>
+            </div>
+                <div class="imagen">
+                    <img src="medio.jpg" alt="imagen de juegos del hambre">
+                </div>
+            </div>
+            <main>
+            <div class="saga">
+                <h2>Saga de "Los Juegos Del Hambre"</h2>
+            </div>
+            <div class="contenedor">
+                <div class="tarjeta">
+                <h2 class="titulo">Los Juegos Del Hambre</h2>
+                <div class="cuerpo"> <img src="card1.jpg" alt="Imagen de libro 1"></div>
+                <div class="pie">
+                    <a href="libro1.html">25.98 USD</a>
+                </div>
+                </div>
+                <div class="tarjeta">
+                <h2 class="titulo">En Llamas</h2>
+                <div class="cuerpo"> <img src="card2.jpg" alt="Imagen de un libro 2">
+                </div>
+                <div class="pie">
+                    <a href="libro2.html">20.50 USD</a>
+                </div>
+                </div>
+                <div class="tarjeta">
+                <h2 class="titulo">Sinsajo</h2>
+                <div class="cuerpo"> <img src="card3.jpg" alt="Imagen de un libro 3">
+                </div>
+                <div class="pie">
+                    <a href="libro3.html">25.98 USD</a>
+                </div>
+                </div>
+                    <div class="tarjeta">
+                    <h2 class="titulo">Balada de Pajaros<br> Cantores y Serpientes</h2>
+                    <div class="cuerpo"> <img src="card4.jpg" alt="Imagen de un libro 4">
+                    </div>
+                    <div class="pie">
+                        <a href="libro4.html">31.63 USD</a>
+                    </div>
+                    </div>
+                    </div>
+                </div>
+            </main>
+
+                <div class="contacto">
+                <h1>Contactenos</h1>
+            </div>
+    
+            <footer>
+    
+                <div class="container-footer">
+                    <div class="box-footer">
+                        <div class="logo">
+                            <img src="icono.jpg" alt="logo">
+                        </div>
+                    </div>
+    
+                    <div class="box-footer">
+                        <h2>Redes Sociales</h2>
+                        <a href="#"> <div class="redes"><img src="ig.png" alt="logo de ig"> Instagram</a> </div>
+                        <a href="#"><div class="redes"><img src="fb.png" alt="logo de fb"> Facebook</a></div>
+                        <a href="#"><div class="redes"><img src="tw.png" alt="logo de tw"> Twitter</a></div>
+                    </div>
+                    <div class="box-footer">
+                        <h2>Compañia</h2>
+                        <a href="#">Acerca de</a>
+                        <a href="#">Experiencias Laborales</a>
+                        <a href="#">Servicios</a>
+                    </div>
+                    <div class="box-footer">
+                        <h2>Comuniquese</h2>
+                        <a href="#">1128156026</a>
+                        <a href="#">elyas@live.com.ar</a>
+                    </div>
+                    <div class="box-derechos">
+                        <hr>
+                        <p>Todos los Derechos Reservados © 2022</p>
+                    </div>
+            </footer>
+            
+</body>
+</html>
